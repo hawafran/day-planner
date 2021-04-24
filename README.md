@@ -1,0 +1,1 @@
+This day planner utilizes a for to allow the user to input appointments via time blocks. The current day of the week, date and time are displayed at the top of the page(EST. The user can submit the appointments which then is stored to the local storage. 
